@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ozancann01
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
